@@ -1,0 +1,6 @@
+﻿  FindTheProcessIDByProcessName.cpp
+c:\users\wrxue\source\repos\findtheprocessidbyprocessname\findtheprocessidbyprocessname\findtheprocessidbyprocessname.cpp(14): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\wrxue\source\repos\findtheprocessidbyprocessname\findtheprocessidbyprocessname\findtheprocessidbyprocessname.cpp(14): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\wrxue\source\repos\findtheprocessidbyprocessname\findtheprocessidbyprocessname\findtheprocessidbyprocessname.cpp(14): note: the missing variadic argument 2 is required by format string '%ls'
+  c:\users\wrxue\source\repos\findtheprocessidbyprocessname\findtheprocessidbyprocessname\findtheprocessidbyprocessname.cpp(14): note: this argument is used as a buffer size
+  FindTheProcessIDByProcessName.vcxproj -> C:\Users\wrxue\source\repos\FindTheProcessIDByProcessName\Debug\FindTheProcessIDByProcessName.exe
